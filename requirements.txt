@@ -1,0 +1,25 @@
+numpy
+scikit-learn
+matplotlib
+seaborn
+pandas
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+-f https://download.pytorch.org/whl/cpu/torch_stable.html
+
+pytorch-lightning
+transformers
+# tensorflow
+keras
+opencv-python
+nltk
+spacy
+gensim
+tqdm
+requests
+scipy
+jupyter
+notebook
+ipython
+h5py
